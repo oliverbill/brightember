@@ -7,7 +7,7 @@ export const site = {
   email: "reviews@oliversys.tech",
   location: "Portugal · Spain · Americas",
   bookingSubject: "Confidential introductory call",
-  linkedinPersonal: "https://www.linkedin.com/in/walvesbill/",
+  linkedinPersonal: "https://www.linkedin.com/in/willbilloliveira/",
   nav: [
     { label: "Approach", href: "/approach" },
     { label: "For investors", href: "/investors" },
